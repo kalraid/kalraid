@@ -24,7 +24,7 @@
 
 | 🎮 게임용 | 📚 학습용 | 💼 업무용 | 합계 |
 |:---:|:---:|:---:|:---:|
-| **10개** · 커밋 2,099 | **6개** · 커밋 559 | **7개** (포크) | **23개** · 커밋 2,658 |
+| **10개** · 커밋 2,100 | **7개** · 커밋 561 | **7개** (포크) | **24개** · 커밋 2,661 |
 
 ### 🎮 게임 / 게임 도구
 
@@ -37,7 +37,7 @@
 | [HoloThello](https://github.com/kalraid/HoloThello) | 오셀로 + 격투 HP 대전 | Unity | 16 | 79% |
 | [game-vault](https://github.com/kalraid/game-vault) | 브라우저 게임 포털 (인증·세이브·실시간 SDK) | React · Express · Prisma | 16 | 95% |
 | [rolling_vantage](https://github.com/kalraid/rolling_vantage) | 그리드 소환 전술 + 주사위 판정 | TypeScript | 14 | 설계 32% |
-| [mabi-look-matcher](https://github.com/kalraid/mabi-look-matcher) | 사진으로 마비노기 의상 찾기 | FastAPI · Next.js · Vision AI | 6 | MVP 완료 |
+| [mabi-look-matcher](https://github.com/kalraid/mabi-look-matcher) | 사진으로 마비노기 의상 찾기 | FastAPI · Next.js · Vision AI | 7 | MVP 완료 |
 | PRIMACY INDEX 🔒 | 한국 지역경제 시뮬레이션 (Steam 목표) | Godot · C# | 91 | Sprint 0 완료 |
 | [dnd-project](https://github.com/kalraid/dnd-project) | 던전앤파이터 파티·시세 도구 + 커뮤니티 (dnfParty의 전신, 2020) | Spring Boot · Vue 2 | 120 | 보관 |
 
@@ -49,6 +49,7 @@
 | [HoloLibrary](https://github.com/kalraid/HoloLibrary) / [API](https://github.com/kalraid/HoloLibraryAPI) | 홀로라이브 트위터·유튜브 라이브러리 (Vue + Falcon) | 174 / 80 |
 | [Team_Project](https://github.com/kalraid/Team_Project) | 학원 팀 프로젝트 (Spring MVC) | 151 |
 | [sound-to-visual-web](https://github.com/kalraid/sound-to-visual-web) | MIDI → 3D 지형 음악 시각화 (Three.js) | 39 |
-| [chatserver](https://github.com/kalraid/chatserver) | socket.io 채팅 서버 | 37 |
+| [chatserver](https://github.com/kalraid/chatserver) | socket.io 채팅 서버 (etfholdings.co.kr용) | 37 |
+| [etfholdings](https://github.com/kalraid/etfholdings) | ETF 정보 사이트용 IEX Cloud API 연동 (dnd-project에서 분리) | 2 |
 
 <sub>🔒 = private 저장소 · 커밋 수는 저장소 전체 커밋 수 · 상세 분석은 [private_wiki/repos](https://github.com/kalraid/private_wiki/blob/main/repos/README.md)</sub>
