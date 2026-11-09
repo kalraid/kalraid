@@ -39,7 +39,7 @@
 | [rolling_vantage](https://github.com/kalraid/rolling_vantage) | 그리드 소환 전술 + 주사위 판정 | TypeScript | 14 | 설계 32% |
 | [mabi-look-matcher](https://github.com/kalraid/mabi-look-matcher) | 사진으로 마비노기 의상 찾기 | FastAPI · Next.js · Vision AI | 6 | MVP 완료 |
 | PRIMACY INDEX 🔒 | 한국 지역경제 시뮬레이션 (Steam 목표) | Godot · C# | 91 | Sprint 0 완료 |
-| dnd-project | 던전앤파이터 파티·시세 도구 + 커뮤니티 (dnfParty의 전신, 2020) | Spring Boot · Vue 2 | 120 | 보관 |
+| [dnd-project](https://github.com/kalraid/dnd-project) | 던전앤파이터 파티·시세 도구 + 커뮤니티 (dnfParty의 전신, 2020) | Spring Boot · Vue 2 | 120 | 보관 |
 
 ### 📚 학습 / 사이드 프로젝트
 
