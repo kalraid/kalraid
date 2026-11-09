@@ -1,9 +1,24 @@
 ## 👋 Hi, I'm kalraid (박찬호)
 
-게임과 게임 주변 도구를 만들고, 여러 AI 코딩 에이전트와 함께 설계부터 구현까지 진행하는 개발자입니다.
-인프라·모니터링 업무 경험이 있고, Java/Spring에서 시작해 지금은 Python(FastAPI)·TypeScript(React/Three.js/PixiJS)·Godot을 주로 씁니다.
+**클라우드 플랫폼 백엔드 엔지니어** · 프라이빗 클라우드·VDI 분야 8년차.
+업무로는 Java/Spring 백엔드부터 Kubernetes 배포·운영(CKA)까지 맡고, 관측성(OpenTelemetry)·인증/제로트러스트·사내 AI 개발 플랫폼을 만들고 있습니다.
+개인적으로는 게임과 게임 주변 도구를 여러 AI 코딩 에이전트와 함께 설계부터 구현까지 진행합니다.
 
-📊 **프로젝트 진행도 대시보드** → [private_wiki](https://github.com/kalraid/private_wiki)
+📄 **경력 요약** → [private_wiki/career](https://github.com/kalraid/private_wiki/blob/main/career/README.md) · 📊 **프로젝트 진행도 대시보드** → [private_wiki](https://github.com/kalraid/private_wiki)
+
+### 💼 업무 (아이엔소프트 클라우드솔루션사업부, 2018.11 ~ 현재)
+
+| 분야 | 하는 일 |
+|---|---|
+| ☁️ 클라우드 백엔드 | OpenStack·VMware 기반 Cloud PC(VDI) 백엔드 — Spring Boot·Batch MSA, 대용량 쿼리 최적화 |
+| 📈 관측성 | OpenTelemetry Collector 수집 파이프라인 전담, Grafana Tempo·Prometheus·ClickHouse |
+| 🔐 인증 · 제로트러스트 | AD/LDAP·OTP → Okta·SSO → Keycloak SPI·패스키, OPA·RBAC, mTLS·SPA 단말 인증 |
+| 🤖 AI 개발 플랫폼 | 사내 LLM Gateway(로컬 LLM·소스 마스킹·코드 RAG·MCP 서버) 설계·개발, AI Harness 메인테이너 |
+| ⚙️ 기반 | Kubernetes(CKA) · helm · Jenkins/Nexus/Harbor CI/CD |
+
+![Java](https://img.shields.io/badge/Java-8y-007396?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Kubernetes](https://img.shields.io/badge/CKA-326CE5?logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white) ![Python](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C) ![MCP](https://img.shields.io/badge/MCP-191919)
+
+<sub>자격증: CKA(2024) · ADsP(2023) · 빅데이터분석기사(2021) · 정보처리기사(2018)</sub>
 
 ### 📈 프로젝트 현황 (2026-11-09 기준)
 
