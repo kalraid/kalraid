@@ -24,13 +24,13 @@
 
 | 🎮 게임용 | 📚 학습용 | 💼 업무용 | 합계 |
 |:---:|:---:|:---:|:---:|
-| **9개** · 커밋 1,854 | **6개** · 커밋 682 | **7개** (포크) | **22개** · 커밋 2,536 |
+| **10개** · 커밋 2,099 | **6개** · 커밋 559 | **7개** (포크) | **23개** · 커밋 2,658 |
 
 ### 🎮 게임 / 게임 도구
 
 | 프로젝트 | 소개 | 스택 | 커밋 | 진행도 |
 |---|---|---|---:|---|
-| Lord's Daughter 🔒 | 육성+전략+영지경영 시뮬레이션 (프린세스 메이커 계열) | React · PixiJS (Godot에서 전환) | 1547 | 웹 이식 93% |
+| Lord's Daughter 🔒 | 육성+전략+영지경영 시뮬레이션 (프린세스 메이커 계열) | React · PixiJS (Godot에서 전환) | 1586 | 웹 이식 92% |
 | Erebos Academy Survival 🔒 | 턴제 육성 + 탄막 | Godot 4 | 103 | POC 98% |
 | [mafia-game-web](https://github.com/kalraid/mafia-game-web) | LLM 에이전트와 하는 웹 마피아 게임 | FastAPI · LangGraph · Claude API | 94 | 제출 완료 |
 | [dnfParty](https://github.com/kalraid/dnfParty) | 던전앤파이터 레이드 파티 관리·최적화 | Spring Boot 3 · Vue 3 · K8s | 53 | 47% |
@@ -38,13 +38,14 @@
 | [game-vault](https://github.com/kalraid/game-vault) | 브라우저 게임 포털 (인증·세이브·실시간 SDK) | React · Express · Prisma | 16 | 95% |
 | [rolling_vantage](https://github.com/kalraid/rolling_vantage) | 그리드 소환 전술 + 주사위 판정 | TypeScript | 14 | 설계 32% |
 | [mabi-look-matcher](https://github.com/kalraid/mabi-look-matcher) | 사진으로 마비노기 의상 찾기 | FastAPI · Next.js · Vision AI | 6 | MVP 완료 |
-| PRIMACY INDEX 🔒 | 한국 지역경제 시뮬레이션 (Steam 목표) | Godot · C# | 5 | 착수 |
+| PRIMACY INDEX 🔒 | 한국 지역경제 시뮬레이션 (Steam 목표) | Godot · C# | 91 | Sprint 0 완료 |
+| dnd-project | 던전앤파이터 파티·시세 도구 + 커뮤니티 (dnfParty의 전신, 2020) | Spring Boot · Vue 2 | 120 | 보관 |
 
 ### 📚 학습 / 사이드 프로젝트
 
 | 프로젝트 | 소개 | 커밋 |
 |---|---|---:|
-| [VRChatAINpc](https://github.com/kalraid/VRChatAINpc) | VRChat AI NPC MSA 실험 + ETF 정보 사이트 | 201 |
+| [VRChatAINpc](https://github.com/kalraid/VRChatAINpc) | VRChat AI NPC MSA 실험 | 78 |
 | [HoloLibrary](https://github.com/kalraid/HoloLibrary) / [API](https://github.com/kalraid/HoloLibraryAPI) | 홀로라이브 트위터·유튜브 라이브러리 (Vue + Falcon) | 174 / 80 |
 | [Team_Project](https://github.com/kalraid/Team_Project) | 학원 팀 프로젝트 (Spring MVC) | 151 |
 | [sound-to-visual-web](https://github.com/kalraid/sound-to-visual-web) | MIDI → 3D 지형 음악 시각화 (Three.js) | 39 |
